@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Volumes/李然的硬盘/LeetCode",
+      "program": "/Volumes/李然的硬盘/LeetCode/build/Debug/outDebug"
+    }
+  ]
+}
