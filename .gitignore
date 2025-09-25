@@ -1,0 +1,55 @@
+# --- macOS 系统文件 ---
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# 图标必须隐藏
+Icon?
+
+# 缩略图
+._*
+
+# 系统文件
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# 直接文件夹
+.DS_Store?
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+# --- JetBrains IDE (CLion) 相关文件 ---
+# 整个项目配置目录
+.idea/
+
+# 项目文件
+*.iws
+*.iml
+*.ipr
+
+# 工作区文件
+*.iws
+
+# 编译输出目录
+cmake-build-*/
+cmake-build-*/
+
+# 本地历史记录
+.idea/localHistory/
+
+# 生成的动态库
+*.dylib
+*.so
+
+# 编译产物
+*.o
+*.a
+*.out
